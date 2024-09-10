@@ -24,10 +24,6 @@
 
 ###
 
-<p align="center">I also use the following technologies:</p>
-
-###
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ksunwy)](https://github.com/ryo-ma/github-profile-trophy)
 
